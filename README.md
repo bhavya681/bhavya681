@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://camo.githubusercontent.com/4d37e9f427d61b9481442abe6ca8f2a342f09fbe6ed561119ab91fa67a55658b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966)]
 
 <h1 align="center">Hi 👋, I'm Bhavya Wade</h1>
 <h3 align="center">A passionate Mern stack developer from India</h3>
