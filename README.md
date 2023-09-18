@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
 
 <h1 align="center">Hi 👋, I'm Bhavya Wade</h1>
 <h3 align="center">A passionate Mern stack developer from India</h3>
