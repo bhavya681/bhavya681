@@ -4,11 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya681&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya681" /> </p>
 
-- 🌱 I’m currently learning **ReactJs ,NextJs**
+- 🌱 I’m currently learning **ReactJs ,NextJs,TypeScript,Node Js,Express Js,Mongo Db,Redis,Docker**
 
-- 👯 Reactjs Netflix Clone project [Netflix Clone](https://netflix-kappa-nine.vercel.app/)
+- My Porfolio - [Portfolio](https://bhavyawade.vercel.app/)
+
+- 👯 Reactjs LearnNova - [LearnNova](https://learnova1.vercel.app/)
 
 - 🤝 Reactjs project [Crypto App](https://reactcryptoapp-opal.vercel.app/)
+
+- Code Buddy - [Code Buddy](https://codebuddy-gamma.vercel.app/)
+
+- Job Portal - [Job Portal](https://mernjobportal-2-1cwi.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/bhavyawade2-gmailcom](https://vercel.com/bhavyawade2-gmailcom)
 
@@ -16,9 +22,9 @@
 
 - 📫 How to reach me **bhavyawade2@gmail.com**
 
-- ⚡ Fun fact **🤓 As a sigma-focused techy teenager, I've mastered the ancient arts of Python, the ninja stealth of React.js, and the mystical flow of the MERN stack. 💻 I might not speak much in the real world, but in the kingdom of bits and bytes, I'm a verbose virtuoso.**
-
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/bhavya-wade/">Linkedin</a>
+<a href="https://x.com/wade_bhavy55123">Twitter</a>
 <p align="left">
 </p>
 
