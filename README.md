@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b7611je9haux6hu7eikb61x3kk3i46vu2hxb1m8z2xlqb&ep=v1_stickers_search&rid=giphy.gif&ct=s](https://media.giphy.com/media/bveEcspCLKukj1n8Gp/giphy.gif?cid=ecf05e47wbgw6ezj5dk4mgxci9x178y8m5ck9k12elyym0cu&ep=v1_stickers_search&rid=giphy.gif&ct=s)" alt="Coding" width="50%"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b7611je9haux6hu7eikb61x3kk3i46vu2hxb1m8z2xlqb&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding" width="50%"/>
 </p>
 
 <p align="center">
