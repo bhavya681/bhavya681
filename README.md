@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Namaste 🙏🏻, I'm Bhavya Wade</h1>
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
-<p align="center">
+<p align="center w-20 h-17">
   <img src="https://bhavyawade-hswa.vercel.app/assets/profile-CpF4KlVA.png" alt="Coding" width="50%"/>
 </p>
 
@@ -99,6 +99,6 @@ make this professional cool crisp stuff for my github stuff professionally for a
 
 <a href="https://bhavyawade-hswa.vercel.app">Portfolio</a>
 <a href="https://x.com/wade_bhavy55123">Twitter</a>
-<a href=" https://www.linkedin.com/in/bhavya-wade">Linkedln</a>
+<a href="https://www.linkedin.com/in/bhavya-wade">Linkedln</a>
 <a href="https://github.com/bhavya681">Github</a>
 
