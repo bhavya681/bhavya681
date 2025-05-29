@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwZHNveXAyZzRjbzR5aGxuNDA3YXhjM3g0c3NvcWx2OWU2dGN1dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/E6EnvXLzCwnhV58V9l/giphy.gif" alt="Coding" width="50%"/>
+  <img src="https://bhavyawade-hswa.vercel.app/assets/profile-CpF4KlVA.png" alt="Coding" width="50%"/>
 </p>
 
 <p align="center">
@@ -95,5 +95,10 @@ A smart pet care ecosystem designed for breeders, sitters, and pet owners! 🏡
 ---
 
 
-make this professional cool crisp stuff for my github stuff professionally for appealing design to attract others and this are my details  https://bhavyawade-hswa.vercel.app/ 
-https://x.com/wade_bhavy55123   https://www.linkedin.com/in/bhavya-wade/  https://github.com/bhavya681
+make this professional cool crisp stuff for my github stuff professionally for appealing design to attract others and this are my details  
+
+<a href="https://bhavyawade-hswa.vercel.app">Portfolio</a>
+<a href="https://x.com/wade_bhavy55123">Twitter</a>
+<a href=" https://www.linkedin.com/in/bhavya-wade">Linkedln</a>
+<a href="https://github.com/bhavya681">Github</a>
+
