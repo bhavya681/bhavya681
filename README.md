@@ -1,99 +1,66 @@
-<h1 align="center">🚀 Namaste 🙏🏻, I'm Bhavya Wade</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India</h3>
+<!-- GitHub Profile README for Bhavya Wade -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwZHNveXAyZzRjbzR5aGxuNDA3YXhjM3g0c3NvcWx2OWU2dGN1dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/E6EnvXLzCwnhV58V9l/giphy.gif" alt="Coding" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavya681&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya681" />
-</p>
-
----
-
-## 🌱 About Me
-- 🔥 Passionate about **ReactJS, NextJS, TypeScript, Node.js, Express.js, MongoDB, Redis, Docker**.
-- 🎯 Exploring new technologies and building innovative solutions.
-- 🎨 Love crafting **seamless, scalable, and engaging web applications**.
+<div align="center">
+  <img src="https://github.com/bhavya681.png" width="150" style="border-radius: 50%;" alt="Bhavya Wade's Profile Picture" />
+  <h1>Hi there, I'm <span style="color:#0a66c2;">Bhavya Wade</span> 👋</h1>
+  <p><strong>Full-Stack Developer | MERN Stack Enthusiast | Open Source Contributor</strong></p>
+  <p>Passionate about building scalable web applications and exploring new technologies.</p>
+  <a href="https://bhavyawade-hswa.vercel.app/" target="_blank">🌐 Portfolio</a> |
+  <a href="https://x.com/wade_bhavy55123" target="_blank">🐦 Twitter</a> |
+  <a href="https://www.linkedin.com/in/bhavya-wade/" target="_blank">💼 LinkedIn</a> |
+  <a href="https://github.com/bhavya681" target="_blank">💻 GitHub</a>
+</div>
 
 ---
 
-## 🚀 Latest Full-Stack Project: **TrialTailTender** 🐾🐶🐱
-A smart pet care ecosystem designed for breeders, sitters, and pet owners! 🏡  
+### 🛠️ Tech Stack
 
-### 🌟 Key Features:
-✅ **For Pet Owners:** Add pets, book appointments with trusted sitters, and get location-based recommendations.  
-✅ **Verified Sitters & Ratings:** Browse, filter, and rate pet sitters for trusted care.  
-✅ **Community Forum:** Engage in discussions, seek advice, and share experiences.  
-✅ **Vet & Breeder Connections:** Chat with professionals for expert advice.  
-✅ **Seamless Experience:** Real-time chat, appointment booking & intuitive UI.  
-
-🌐 **Live Now:** [TrialTailTender](https://trialtailtender-xiab-one.vercel.app/)  
-
----
-
-## 🔗 My Work
-- 🛠 **Portfolio:** [bhavyawade.vercel.app](https://bhavyawade.vercel.app/)
-- 🚀 **ReactJS LearnNova:** [LearnNova](https://learnova1.vercel.app/)
-- 💹 **Crypto App:** [Crypto App](https://reactcryptoapp-opal.vercel.app/)
-- 🤖 **Code Buddy - Developer Social Media Platform:** [Code Buddy](https://codebuddy-gamma.vercel.app/)
-- 💼 **Job Portal:** [Job Portal](https://mernjobportal-2-1cwi.onrender.com/)
-- 📂 **All My Projects:** [View More](https://vercel.com/bhavyawade2-gmailcom)
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</div>
 
 ---
 
-## 💡 Skills & Technologies
-### 💻 Programming & Web Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### 📈 GitHub Stats
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![BrupSuite](https://img.shields.io/badge/-Burp%20Suite-FF6815?style=flat&logo=burpsuite&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavya681&show_icons=true&theme=radical" alt="Bhavya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya681&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 📬 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhavya-wade/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/wade_bhavy55123"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:bhavyawade2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+### 📌 Pinned Projects
 
----
-
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavya681&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavya681&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya681&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## ☕ Support My Work
-<p>
-  <a href="https://www.buymeacoffee.com/bhavyawade">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+<div align="center">
+  <a href="https://github.com/bhavya681/email-signature-creator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavya681&repo=email-signature-creator&theme=radical" alt="Email Signature Creator" />
   </a>
-</p>
+  <!-- Add more pinned projects as needed -->
+</div>
 
 ---
 
+### 📫 Connect with Me
 
-make this professional cool crisp stuff for my github stuff professionally for appealing design to attract others and this are my details  https://bhavyawade-hswa.vercel.app/ 
-https://x.com/wade_bhavy55123   https://www.linkedin.com/in/bhavya-wade/  https://github.com/bhavya681
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/wade_bhavy55123" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhavya-wade/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://bhavyawade-hswa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
