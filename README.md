@@ -1,95 +1,89 @@
-<h1 align="center">🚀 Namaste 🙏🏻, I'm Bhavya Wade</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India</h3>
+<h1 align="center">🚀 Bhavya Wade</h1>
+<h3 align="center">MERN Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b7611je9haux6hu7eikb61x3kk3i46vu2hxb1m8z2xlqb&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding" width="50%"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b7611je9haux6hu7eikb61x3kk3i46vu2hxb1m8z2xlqb&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavya681&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya681" />
+  <img src="https://komarev.com/ghpvc/?username=bhavya681&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya681" /> 
+  <a href="https://github.com/bhavya681?tab=followers"><img src="https://img.shields.io/github/followers/bhavya681?label=Followers&style=social" alt="GitHub Followers"/></a>
 </p>
 
 ---
 
-## 🌱 About Me
-- 🔥 Passionate about **ReactJS, NextJS, TypeScript, Node.js, Express.js, MongoDB, Redis, Docker**.
-- 🎯 Exploring new technologies and building innovative solutions.
-- 🎨 Love crafting **seamless, scalable, and engaging web applications**.
+## 🔥 What I Bring to the Table
+- **Full-Stack Expertise**: Building scalable web apps with React, Next.js, Node.js, and MongoDB.
+- **Performance Optimization**: Passionate about efficient code and seamless UX.
+- **Open-Source Advocate**: Contributing to projects and sharing knowledge.
+- **Continuous Learner**: Exploring DevOps (Docker, Redis) and modern architectures.
 
 ---
 
-## 🚀 Latest Full-Stack Project: **TrialTailTender** 🐾🐶🐱
-A smart pet care ecosystem designed for breeders, sitters, and pet owners! 🏡  
+## 🛠️ Tech Stack
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🌟 Key Features:
-✅ **For Pet Owners:** Add pets, book appointments with trusted sitters, and get location-based recommendations.  
-✅ **Verified Sitters & Ratings:** Browse, filter, and rate pet sitters for trusted care.  
-✅ **Community Forum:** Engage in discussions, seek advice, and share experiences.  
-✅ **Vet & Breeder Connections:** Chat with professionals for expert advice.  
-✅ **Seamless Experience:** Real-time chat, appointment booking & intuitive UI.  
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-🌐 **Live Now:** [TrialTailTender](https://trialtailtender-xiab-one.vercel.app/)  
-
----
-
-## 🔗 My Work
-- 🛠 **Portfolio:** [bhavyawade.vercel.app](https://bhavyawade.vercel.app/)
-- 🚀 **ReactJS LearnNova:** [LearnNova](https://learnova1.vercel.app/)
-- 💹 **Crypto App:** [Crypto App](https://reactcryptoapp-opal.vercel.app/)
-- 🤖 **Code Buddy - Developer Social Media Platform:** [Code Buddy](https://codebuddy-gamma.vercel.app/)
-- 💼 **Job Portal:** [Job Portal](https://mernjobportal-2-1cwi.onrender.com/)
-- 📂 **All My Projects:** [View More](https://vercel.com/bhavyawade2-gmailcom)
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 💡 Skills & Technologies
-### 💻 Programming & Web Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+## 🚀 Featured Projects
+### **1. TrialTailTender 🐾**  
+_A pet care ecosystem for breeders, sitters, and owners_  
+🔹 **Tech**: Next.js, Node.js, MongoDB, Redis  
+🔹 **Features**: Real-time chat, appointment booking, community forum  
+🔹 **Live**: [trialtailtender.vercel.app](https://trialtailtender-xiab-one.vercel.app/)  
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![BrupSuite](https://img.shields.io/badge/-Burp%20Suite-FF6815?style=flat&logo=burpsuite&logoColor=white)
+### **2. LearnNova 📚**  
+_Interactive learning platform_  
+🔹 **Tech**: React, Firebase  
+🔹 **Live**: [learnova1.vercel.app](https://learnova1.vercel.app/)  
 
----
+### **3. Code Buddy 🤝**  
+_Developer social network_  
+🔹 **Tech**: MERN Stack  
+🔹 **Live**: [codebuddy.vercel.app](https://codebuddy-gamma.vercel.app/)  
 
-## 📬 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhavya-wade/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/wade_bhavy55123"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:bhavyawade2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+📌 **More Projects**: [Explore Here](https://vercel.com/bhavyawade2-gmailcom)
 
 ---
 
-## ⚡ GitHub Stats
+## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavya681&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavya681&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya681&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavya681&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya681&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya681&theme=radical"/>
 </p>
 
 ---
 
-## ☕ Support My Work
-<p>
-  <a href="https://www.buymeacoffee.com/bhavyawade">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavya-wade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/wade_bhavy55123"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:bhavyawade2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://bhavyawade-hswa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
+
+## 💡 Fun Fact
+> "I automate repetitive tasks so I can focus on solving real problems."  
+> _Currently learning: Kubernetes & Microservices_
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lzvv7vjqfwc6qgq5qgq5qgq5qg&cover_image=true&theme=novatorem" alt="Spotify Stats" width="50%"/>
+</p>
