@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://bhavyawade-hswa.vercel.app/assets/profile-CpF4KlVA.png" alt="Coding" width="50%"/>
+  <img src="https://bhavyawade-hswa.vercel.app/assets/profile-CpF4KlVA.png" alt="Coding" width="50%" height="20%"/>
 </p>
 
 <p align="center">
