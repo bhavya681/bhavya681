@@ -106,6 +106,9 @@ A smart pet care ecosystem designed for breeders, sitters, and pet owners! 🏡
   </a>
 </p>
 
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhavya681/bhavya681/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
+
