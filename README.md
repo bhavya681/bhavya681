@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBwa3VncGcxaW5obzVwamM1bWN5ZWY3ODd6eW12eG5wZzF6ejA2bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" alt="Coding" width="50%" />
+  <img src="https://media.giphy.com/media/3rUFXUG2dNB5vCVWJ4/giphy.gif?cid=ecf05e4765bxt44a4rl76ka001jev5jbkj9zqebcp67tlcqo&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding" width="50%" />
 </p>
 
 <h1 align="center">Hi there, I'm Bhavya Wade 👋</h1>
