@@ -91,20 +91,6 @@ A smart pet care ecosystem designed for breeders, sitters, and pet owners! 🏡
   </a>
 </p>
 
----
-
-
-make this professional cool crisp stuff for my github stuff professionally for appealing design to attract others and this are my details  
-
-<a href="https://bhavyawade-hswa.vercel.app">
-Portfolio</a>
-
-
-
-<a href="https://x.com/wade_bhavy55123">Twitter</a>
-<a href="https://www.linkedin.com/in/bhavya-wade">Linkedln</a>
-<a href="https://github.com/bhavya681">Github</a>
-
 ## 🔗 Connect With Me
 
 <p align="center">
