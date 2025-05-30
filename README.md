@@ -1,95 +1,83 @@
-
-
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBwa3VncGcxaW5obzVwamM1bWN5ZWY3ODd6eW12eG5wZzF6ejA2bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" alt="Coding" width="50%" height="10%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBwa3VncGcxaW5obzVwamM1bWN5ZWY3ODd6eW12eG5wZzF6ejA2bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" alt="Coding" width="60%" />
 </p>
+
 <h1 align="center">🚀 Namaste 🙏🏻, I'm Bhavya Wade</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavya681&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya681" />
+  <img src="https://komarev.com/ghpvc/?username=bhavya681&label=Profile%20Views&color=0e75b6&style=flat" alt="bhavya681" />
 </p>
 
 ---
 
-## 🌱 About Me
-- 🔥 Passionate about **ReactJS, NextJS, TypeScript, Node.js, Express.js, MongoDB, Redis, Docker**.
-- 🎯 Exploring new technologies and building innovative solutions.
-- 🎨 Love crafting **seamless, scalable, and engaging web applications**.
+## 👨‍💻 About Me
+
+- 🔥 Passionate about **React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, Redis, Docker**
+- 🎯 Exploring bleeding-edge technologies and crafting innovative solutions
+- 🎨 Focused on creating **scalable**, **responsive**, and **engaging** user experiences
 
 ---
 
-## 🚀 Latest Full-Stack Project: **TrialTailTender** 🐾🐶🐱
+## 🚀 Featured Project – **TrialTailTender** 🐾
+
 A smart pet care ecosystem designed for breeders, sitters, and pet owners! 🏡  
+**Live Now ➤** [TrialTailTender](https://trialtailtender-xiab-one.vercel.app/)
 
-### 🌟 Key Features:
-✅ **For Pet Owners:** Add pets, book appointments with trusted sitters, and get location-based recommendations.  
-✅ **Verified Sitters & Ratings:** Browse, filter, and rate pet sitters for trusted care.  
-✅ **Community Forum:** Engage in discussions, seek advice, and share experiences.  
-✅ **Vet & Breeder Connections:** Chat with professionals for expert advice.  
-✅ **Seamless Experience:** Real-time chat, appointment booking & intuitive UI.  
-
-🌐 **Live Now:** [TrialTailTender](https://trialtailtender-xiab-one.vercel.app/)  
-
----
-
-## 🔗 My Work
-- 🛠 **Portfolio:** [bhavyawade.vercel.app](https://bhavyawade.vercel.app/)
-- 🚀 **ReactJS LearnNova:** [LearnNova](https://learnova1.vercel.app/)
-- 💹 **Crypto App:** [Crypto App](https://reactcryptoapp-opal.vercel.app/)
-- 🤖 **Code Buddy - Developer Social Media Platform:** [Code Buddy](https://codebuddy-gamma.vercel.app/)
-- 💼 **Job Portal:** [Job Portal](https://mernjobportal-2-1cwi.onrender.com/)
-- 📂 **All My Projects:** [View More](https://vercel.com/bhavyawade2-gmailcom)
+### ✨ Highlights:
+- 🐶 Add pets, book trusted sitters, get geo-based recommendations
+- ⭐ Verified sitter ratings & detailed profiles
+- 💬 Real-time chat, appointment booking
+- 👥 Community forum for experiences, tips & advice
+- 🩺 Vet & Breeder connections for expert care
 
 ---
 
-## 💡 Skills & Technologies
-### 💻 Programming & Web Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+## 🧠 Skills & Technologies
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![BrupSuite](https://img.shields.io/badge/-Burp%20Suite-FF6815?style=flat&logo=burpsuite&logoColor=white)
+### 💻 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
-
-## 📬 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhavya-wade/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/wade_bhavy55123"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:bhavyawade2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6815?style=flat&logo=burpsuite&logoColor=white)
 
 ---
 
-## ⚡ GitHub Stats
+## 🌐 Projects
+
+- 🛠 [**Portfolio**](https://bhavyawade.vercel.app/)
+- 🚀 [**LearnNova – ReactJS Learning Platform**](https://learnova1.vercel.app/)
+- 💹 [**Crypto App**](https://reactcryptoapp-opal.vercel.app/)
+- 🤖 [**Code Buddy – Dev Social Platform**](https://codebuddy-gamma.vercel.app/)
+- 💼 [**Job Portal – MERN Stack**](https://mernjobportal-2-1cwi.onrender.com/)
+- 📁 [**All Projects on Vercel**](https://vercel.com/bhavyawade2-gmailcom)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavya681&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya681&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavya681&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavya681&show_icons=true&theme=radical" alt="Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya681&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya681&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
-
-## ☕ Support My Work
-<p>
-  <a href="https://www.buymeacoffee.com/bhavyawade">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 ## 🔗 Connect With Me
 
@@ -108,4 +96,12 @@ A smart pet care ecosystem designed for breeders, sitters, and pet owners! 🏡
   </a>
 </p>
 
+---
 
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/bhavyawade" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" />
+  </a>
+</p>
