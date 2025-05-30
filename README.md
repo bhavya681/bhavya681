@@ -6,7 +6,7 @@
 </p>
 
 ---
-<p class="align-center flex -justify-center items-center">
+<p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgyaWx2c296OXM4Y3RkbXZtazR3ZW1wYmRieTlhcnZtNXB2aWUyciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"/>
 </p>
 ## 🚀 About Me
