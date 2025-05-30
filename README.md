@@ -105,3 +105,7 @@ A smart pet care ecosystem designed for breeders, sitters, and pet owners! 🏡
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhavya681/bhavya681/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
