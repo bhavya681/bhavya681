@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3rUFXUG2dNB5vCVWJ4/giphy.gif?cid=ecf05e4765bxt44a4rl76ka001jev5jbkj9zqebcp67tlcqo&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding" width="50%" />
-</p>
+
 
 <h1 align="center">Hi there, I'm Bhavya Wade 👋</h1>
 <p align="center">
