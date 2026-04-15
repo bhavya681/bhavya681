@@ -19,7 +19,7 @@
 
 ## 🧠 Featured Projects
 
-- 🔗 **Portfolio:** [bhavyawade.vercel.app](https://bhavyawade.vercel.app)
+- 🔗 **Portfolio:** [bhavyawade.vercel.app](https://bhavyawade-zeta.vercel.app/)
 - 🧠 **LearnNova – ReactJS LMS:** [learnova1.vercel.app](https://learnova1.vercel.app)
 - 💹 **Crypto App:** [reactcryptoapp-opal.vercel.app](https://reactcryptoapp-opal.vercel.app)
 - 🤝 **Code Buddy (Dev Social Platform):** [codebuddy-gamma.vercel.app](https://codebuddy-gamma.vercel.app)
