@@ -1,21 +1,4 @@
 <h1 align="center">Bhavya Wade</h1>
-<h3 align="center">Full-Stack Developer • Systems Thinker • Builder</h3>
-
-<p align="center">
-  <a href="https://www.bhavyawade.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.linkedin.com/in/bhavya-wade">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/wade_bhavy55123">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" />
-  </a>
-</p>
-
----
-
-<h1 align="center">Bhavya Wade</h1>
 
 <h3 align="center">
 Frontend Engineer • Full-Stack Developer • Building Scalable Products
@@ -213,15 +196,4 @@ Vidyavardhini College of Engineering & Technology
 
 <p align="center">
   <i>Building products. Solving problems. Learning continuously.</i>
-</p>
-
-
-## ☕ Support
-
-If you like my work, consider supporting 👇  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/bhavyawade">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
 </p>
