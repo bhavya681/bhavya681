@@ -43,7 +43,7 @@ Git • GitHub • Postman • REST APIs • Debugging • System Design
 ## 🚀 Featured Projects
 
 ### 🔹 Developer Portfolio  
-👉 https://bhavyawade-zeta.vercel.app  
+👉 https://www.bhavyawade.dev
 Modern interactive portfolio with recruiter-focused UX and system thinking.
 
 ---
