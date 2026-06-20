@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • Systems Thinker • Builder</h3>
 
 <p align="center">
-  <a href="https://bhavyawade-zeta.vercel.app/">
+  <a href="https://www.bhavyawade.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://www.linkedin.com/in/bhavya-wade">
