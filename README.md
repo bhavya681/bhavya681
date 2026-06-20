@@ -95,7 +95,7 @@ Full-stack job portal with authentication & role-based features.
 
 ## 🤝 Let’s Connect
 
-- 🌐 Portfolio: https://bhavyawade-zeta.vercel.app  
+- 🌐 Portfolio: https://www.bhavyawade.dev  
 - 💼 LinkedIn: https://www.linkedin.com/in/bhavya-wade  
 - 🐦 X: https://x.com/wade_bhavy55123  
 
